@@ -1,5 +1,5 @@
 # Document Storage and Retrieval API 🦜
-This repository contains ASP.NET Core service that provides an API for storing and retrieving documents in various formats. The API supports POST and PUT requests for modifying documents, and GET requests for retrieving documents in different formats such as XML, JSON. It is easy to add support for new formats and underlying storage providers, like Redis, InMemory, etc.
+This repository contains ASP.NET Core service that provides an API for storing and retrieving documents in various formats. The API supports POST and PUT requests for modifying documents and creating documents(uploading JSON), and GET requests for retrieving documents in different formats such as XML, JSON. It is easy to add support for new formats and underlying storage providers, like Redis, InMemory, etc.
 
 ## Installation and Usage
 To use this API, you must first clone or download this repository. The solution is available inside the project Zuzka.Api.
